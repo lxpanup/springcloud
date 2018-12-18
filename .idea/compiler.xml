@@ -9,16 +9,33 @@
         <module name="eureka-client" />
         <module name="eureka-client (1)" />
         <module name="eureka-client2" />
+        <module name="eureka-client2 (1)" />
+        <module name="eureka-consumer" />
+        <module name="eureka-consumer-hystrix" />
+        <module name="eureka-producer" />
+        <module name="eureka-producer (1)" />
+        <module name="eureka-producer2" />
         <module name="eureka-service" />
         <module name="modules" />
+        <module name="modules-eureka-service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-client (1)" target="1.8" />
       <module name="eureka-client2" target="1.8" />
+      <module name="eureka-client2 (1)" target="1.8" />
+      <module name="eureka-consumer" target="1.8" />
+      <module name="eureka-consumer-hystrix" target="1.8" />
+      <module name="eureka-producer" target="1.8" />
+      <module name="eureka-producer (1)" target="1.8" />
+      <module name="eureka-producer-hystrix" target="1.8" />
+      <module name="eureka-producer2" target="1.8" />
       <module name="eureka-service" target="1.8" />
+      <module name="eureka-service (1) (com.lxp)" target="1.8" />
       <module name="modules" target="1.8" />
+      <module name="modules-eureka-service" target="1.8" />
       <module name="springcloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>

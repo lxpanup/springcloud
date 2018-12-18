@@ -2,11 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/modules/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/modules/eureka-client/eureka-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eureka-client2/eureka-client (1).iml" filepath="$PROJECT_DIR$/modules/eureka-client2/eureka-client (1).iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/eureka-client2/eureka-client2.iml" filepath="$PROJECT_DIR$/modules/eureka-client2/eureka-client2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/modules/eureka-service/eureka-service.iml" />
-      <module fileurl="file://$PROJECT_DIR$/modules/modules.iml" filepath="$PROJECT_DIR$/modules/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-consumer/eureka-client2.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-consumer/eureka-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer/eureka-client2 (1).iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer/eureka-client2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-consumer/eureka-consumer.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-consumer/eureka-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-consumer-hystrix/eureka-consumer-hystrix.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-consumer-hystrix/eureka-consumer-hystrix.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer/eureka-producer.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer/eureka-producer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer (1).iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer2.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/modules.iml" filepath="$PROJECT_DIR$/modules-eureka-service/modules.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/modules-eureka-service.iml" filepath="$PROJECT_DIR$/modules-eureka-service/modules-eureka-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
     </modules>
   </component>
