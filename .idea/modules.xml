@@ -2,6 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-hystrix-dashboard/consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-hystrix-dashboard/consumer-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node1/consumer-node1.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node1/consumer-node1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node1 (1).iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node1 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node2.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules/eureka-client2/eureka-client (1).iml" filepath="$PROJECT_DIR$/modules/eureka-client2/eureka-client (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-consumer/eureka-client2.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-consumer/eureka-client2.iml" />
@@ -12,8 +17,10 @@
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer (1).iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer2.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/modules.iml" filepath="$PROJECT_DIR$/modules-eureka-service/modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/modules-eureka-service.iml" filepath="$PROJECT_DIR$/modules-eureka-service/modules-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/modules-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/modules-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
     </modules>
   </component>

@@ -6,6 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="consumer-hystrix-dashboard" />
+        <module name="consumer-node1" />
+        <module name="consumer-node1 (1)" />
+        <module name="consumer-node2" />
+        <module name="demo" />
         <module name="eureka-client" />
         <module name="eureka-client (1)" />
         <module name="eureka-client2" />
@@ -16,11 +21,17 @@
         <module name="eureka-producer (1)" />
         <module name="eureka-producer2" />
         <module name="eureka-service" />
+        <module name="hystrix-dashboard-turbine" />
         <module name="modules" />
         <module name="modules-eureka-service" />
+        <module name="modules-hystrix-dashboard" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="consumer-hystrix-dashboard" target="1.8" />
+      <module name="consumer-node1" target="1.8" />
+      <module name="consumer-node1 (1)" target="1.8" />
+      <module name="consumer-node2" target="1.8" />
       <module name="demo" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-client (1)" target="1.8" />
@@ -34,8 +45,10 @@
       <module name="eureka-producer2" target="1.8" />
       <module name="eureka-service" target="1.8" />
       <module name="eureka-service (1) (com.lxp)" target="1.8" />
+      <module name="hystrix-dashboard-turbine" target="1.8" />
       <module name="modules" target="1.8" />
       <module name="modules-eureka-service" target="1.8" />
+      <module name="modules-hystrix-dashboard" target="1.8" />
       <module name="springcloud" target="1.8" />
     </bytecodeTargetLevel>
   </component>

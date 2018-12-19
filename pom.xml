@@ -8,6 +8,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<modules>
 		<module>modules-eureka-service</module>
+		<module>modules-hystrix-dashboard</module>
 	</modules>
 	<packaging>pom</packaging>
 
