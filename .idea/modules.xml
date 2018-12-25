@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-hystrix-dashboard/consumer-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-hystrix-dashboard/consumer-hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node1/consumer-node1.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node1/consumer-node1.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node1 (1).iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node1 (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node2.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-node2/consumer-node2.iml" />

@@ -10,6 +10,7 @@
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/modules-eureka-service/eureka-producer-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/modules-hystrix-dashboard/consumer-hystrix-dashboard/pom.xml" />
       </set>
     </option>
   </component>
