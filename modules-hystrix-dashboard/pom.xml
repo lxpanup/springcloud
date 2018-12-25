@@ -11,6 +11,7 @@
 
     <artifactId>modules-hystrix-dashboard</artifactId>
     <modules>
+        <module>hystrix-dashboard</module>
         <module>consumer-hystrix-dashboard</module>
         <module>hystrix-dashboard-turbine</module>
         <module>consumer-node1</module>

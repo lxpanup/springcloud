@@ -17,10 +17,12 @@
         <module name="eureka-client2 (1)" />
         <module name="eureka-consumer" />
         <module name="eureka-consumer-hystrix" />
+        <module name="eureka-consumer-hystrix (1)" />
         <module name="eureka-producer" />
         <module name="eureka-producer (1)" />
         <module name="eureka-producer2" />
         <module name="eureka-service" />
+        <module name="hystrix-dashboard" />
         <module name="hystrix-dashboard-turbine" />
         <module name="modules" />
         <module name="modules-eureka-service" />
@@ -39,12 +41,14 @@
       <module name="eureka-client2 (1)" target="1.8" />
       <module name="eureka-consumer" target="1.8" />
       <module name="eureka-consumer-hystrix" target="1.8" />
+      <module name="eureka-consumer-hystrix (1)" target="1.8" />
       <module name="eureka-producer" target="1.8" />
       <module name="eureka-producer (1)" target="1.8" />
       <module name="eureka-producer-hystrix" target="1.8" />
       <module name="eureka-producer2" target="1.8" />
       <module name="eureka-service" target="1.8" />
       <module name="eureka-service (1) (com.lxp)" target="1.8" />
+      <module name="hystrix-dashboard" target="1.8" />
       <module name="hystrix-dashboard-turbine" target="1.8" />
       <module name="modules" target="1.8" />
       <module name="modules-eureka-service" target="1.8" />
