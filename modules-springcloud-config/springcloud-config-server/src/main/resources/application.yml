@@ -1,5 +1,5 @@
 server:
-  port: 8001
+  port: 8060
 spring:
   application:
     name: spring-cloud-config-server
@@ -11,3 +11,14 @@ spring:
           search-paths: config-repo                             # git仓库地址下的相对地址，可以配置多个，用,分割。
           username: lxpanup                                              # git仓库的账号
           password: Lxp511325                                             # git仓库的密码
+
+##关闭安全认证
+#management:
+#  security:
+#    enabled: false
+#  #refresh接入点显式暴露出来
+#  endpoints:
+#    web:
+#      exposure:
+#        include: refresh,health,info,bus-refresh
+

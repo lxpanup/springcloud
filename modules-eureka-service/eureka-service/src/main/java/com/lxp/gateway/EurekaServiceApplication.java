@@ -1,4 +1,4 @@
-package com.lxp.eureka;
+package com.lxp.gateway;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -11,4 +11,5 @@ public class EurekaServiceApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaServiceApplication.class, args);
 	}
+
 }

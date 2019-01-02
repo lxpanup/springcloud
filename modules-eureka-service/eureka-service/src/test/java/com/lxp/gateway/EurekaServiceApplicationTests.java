@@ -1,4 +1,4 @@
-package com.lxp.eureka;
+package com.lxp.gateway;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

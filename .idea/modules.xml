@@ -17,12 +17,19 @@
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer (1).iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer (1).iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer2.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-producer2/eureka-producer2.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/eureka-service/eureka-service.iml" filepath="$PROJECT_DIR$/modules-eureka-service/eureka-service/eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-springcloud-config/springcloud-config-client/eureka-service (1).iml" filepath="$PROJECT_DIR$/modules-springcloud-config/springcloud-config-client/eureka-service (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-springcloud-config/springcloud-config-server/eureka-service (2).iml" filepath="$PROJECT_DIR$/modules-springcloud-config/springcloud-config-server/eureka-service (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-gateway/gateway-service/gateway-service.iml" filepath="$PROJECT_DIR$/modules-gateway/gateway-service/gateway-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/hystrix-dashboard/hystrix-dashboard.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/hystrix-dashboard/hystrix-dashboard.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/hystrix-dashboard-turbine/hystrix-dashboard-turbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/modules.iml" filepath="$PROJECT_DIR$/modules-eureka-service/modules.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-eureka-service/modules-eureka-service.iml" filepath="$PROJECT_DIR$/modules-eureka-service/modules-eureka-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-gateway/modules-gateway.iml" filepath="$PROJECT_DIR$/modules-gateway/modules-gateway.iml" />
       <module fileurl="file://$PROJECT_DIR$/modules-hystrix-dashboard/modules-hystrix-dashboard.iml" filepath="$PROJECT_DIR$/modules-hystrix-dashboard/modules-hystrix-dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-springcloud-config/modules-springcloud-config.iml" filepath="$PROJECT_DIR$/modules-springcloud-config/modules-springcloud-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springcloud.iml" filepath="$PROJECT_DIR$/.idea/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-springcloud-config/springcloud-config-server/springcloud-config-client.iml" filepath="$PROJECT_DIR$/modules-springcloud-config/springcloud-config-server/springcloud-config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules-springcloud-config/springcloud-config-client/springcloud-config-client (1).iml" filepath="$PROJECT_DIR$/modules-springcloud-config/springcloud-config-client/springcloud-config-client (1).iml" />
     </modules>
   </component>
 </project>
